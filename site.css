@@ -1,0 +1,172 @@
+body {
+	background-color: #21B1FF;
+}
+
+.logo {
+	width: 30%;
+	height: 120px;
+	background-color: black;
+	float: left;
+	margin-left: 5%;
+}
+
+.logo p {
+	color:white;
+	text-align: center;
+	font-size: 35px;
+}
+
+.form{
+	width: 60%;
+	height: 120px;
+	background-color: black;
+	float: right;
+	margin-right: 5%;
+}
+
+.campoemail {
+	width: 40%;
+	height: 40px;
+	margin-top: 4%;
+}
+
+.camposenha {
+	width: 40%;
+	height: 40px;
+	margin-top: 4%;
+}
+
+.botao {
+	width: 15%;
+	height: 45px;
+	margin-top: 4%;
+}
+
+.banner{
+	width: 90%;
+	height: 60%;
+	margin-left: 5%;
+	clear: both;float: left;
+}
+
+.banner img{
+	width: 100%;
+	
+}
+
+.produtos {
+	float: left;
+	width: 100%;
+}
+
+.p1{
+	width: 22.42%;
+	height: 400px;
+	background-color: white;
+	margin-left:5%;
+	float: left;
+	border-right: 1px solid black;
+	align-content: center;
+}
+.p1 h4{
+	height: 2.5%;
+	font-size: 25px;
+	margin-top: 5%;
+	margin-left: 5%;
+	margin-right: 5%;
+	text-align: center;
+}
+.p1 img {
+	width: 80%;
+	overflow: hidden;
+	margin-left: 9%;
+}
+.p1 p{
+	font-size: 20px;
+	text-align: justify;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+.p2{
+	width: 22.42%;
+	height: 400px;
+	background-color: white;
+	float: left;
+	border-right: 1px solid black;
+	align-content: center;
+}
+.p2 h4{
+	height: 2.5%;
+	font-size: 25px;
+	margin-top: 5%;
+	margin-left: 5%;
+	margin-right: 5%;
+	text-align: center;
+}
+.p2 img {
+	width: 60%;
+	overflow: hidden;
+	margin-left: 30%;
+}
+.p2 p{
+	font-size: 20px;
+	text-align: justify;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+.p3{
+	width: 22.42%;
+	height: 400px;
+	background-color: white;
+	float: left;
+	border-right: 1px solid black;
+	align-content: center;
+}
+.p3 h4{
+	height: 2.5%;
+	font-size: 25px;
+	margin-top: 5%;
+	margin-left: 5%;
+	margin-right: 5%;
+	text-align: center;
+}
+.p3 img {
+	width: 60%;
+	overflow: hidden;
+	margin-left: 20%;
+}
+.p3 p{
+	font-size: 20px;
+	text-align: justify;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+.p4{
+	width: 22.42%;
+	height: 400px;
+	background-color: white;
+	float: left;
+	align-content: center;
+}
+.p4 h4{
+	height: 2.5%;
+	font-size: 25px;
+	margin-top: 5%;
+	margin-left: 5%;
+	margin-right: 5%;
+	text-align: center;
+}
+.p4 img {
+	width: 50%;
+	overflow: hidden;
+	margin-left: 23%;
+}
+.p4 p{
+	font-size: 20px;
+	text-align: justify;
+	margin-left: 5%;
+	margin-right: 5%;
+}
